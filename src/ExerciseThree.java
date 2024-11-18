@@ -25,4 +25,5 @@ public class ExerciseThree {
     areaTriangolo(50.5,42.8);
 
     }
+    //commento per il commit
 }
